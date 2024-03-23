@@ -10,13 +10,13 @@ With the starting code most of the tags were non-semantic tags that can make it 
 
 ## Processed Changes:
 
-### Changed most dev Tags to be more specified to the section they were in with in the code. 
+#### Changed most dev Tags to be more specified to the section they were in with in the code. 
 
-### Sectioned off with spacing to block off section tags to be more presentable
+#### Sectioned off with spacing to block off section tags to be more presentable
 
-### Adjusted css to match up with the adjusted dev tag(s)
+#### Adjusted css to match up with the adjusted dev tag(s)
 
-### Fixed nav link issues in the directory
+#### Fixed nav link issues in the directory
 
 
 ## Deployed Application:
