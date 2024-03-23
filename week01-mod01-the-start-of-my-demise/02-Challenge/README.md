@@ -1,26 +1,13 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# The Fist Assessment: Horiseon Web Page
 
-## Challenges in This Course
+## On The Job Ticket: Refresh The CodeBase To Follow Accessibility Standards
+The Mar
 
-There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
-### Challenge Types 
 
-The two types of Challenges are the following:
+### 
 
-* **On-the-job ticket** or **feature request Challenges** give you starter code in a folder called `Develop`, which you'll modify to complete the Challenge. Odd-numbered modules follow this format.
 
-> **Important**: For assignments with starter code, be sure to copy the contents of the `Develop` folder directly into your repository. Do not include the `Develop` folder itself.
-
-* **Job-seeking coding assessments** or **take-home assignments** don't provide starter code. You'll build these from scratch. Even-numbered modules follow this format.
-
-### Challenge Elements
-
-Challenges adhere to a format that's commonly used by software development teams that use **agile project management** to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer. 
-
-> **Deep Dive**: To learn more about agile, read this [Wikipedia article on agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
-
-Each Challenge contains the following elements:
 
 * **User Story**: This is a short, simple description of a feature told from the perspective of the person who is requesting the new capability, usually a user or customer of the system. This follows an AS AN / I WANT / SO THAT format. For example, "AS A shopper visiting an online store, I WANT to place items in a shopping cart, SO THAT I can purchase them." 
 
