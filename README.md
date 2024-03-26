@@ -20,4 +20,4 @@ With the starting code most of the tags were non-semantic tags that can make it 
 
 
 ## Deployed Application:
-[Click Here](https://novalancebrittany.github.io/semantic.htmlredux/) to view the deployed version. 
+[Click Here](https://novalancebrittany.github.io/HW-01-semantic.htmlredux-/) to view the deployed version. 
